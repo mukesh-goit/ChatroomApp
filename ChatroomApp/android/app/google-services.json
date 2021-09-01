@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "89080246659",
+    "firebase_url": "https://flash-chat-310c1.firebaseio.com",
+    "project_id": "flash-chat-310c1",
+    "storage_bucket": "flash-chat-310c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89080246659:android:5da4cf3f75e3a30d1e86b6",
+        "android_client_info": {
+          "package_name": "co.kabeer.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89080246659-pssic1cu0kou76a1nvc7ddr9h7lsjep0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpXMLzEniRE_Jw2MqdPfhKZlkRoNPpNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89080246659-pssic1cu0kou76a1nvc7ddr9h7lsjep0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
